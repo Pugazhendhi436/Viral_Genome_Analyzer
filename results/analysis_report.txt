@@ -1,0 +1,33 @@
+VIRAL GENOME ANALYZER v5
+=========================
+
+Original genome: Original_Genome
+Mutated genome: Mutated_Genome
+
+Genome length: 37 bases
+
+ORIGINAL NUCLEOTIDE COUNTS
+A: 9
+T: 9
+G: 10
+C: 9
+
+MUTATED NUCLEOTIDE COUNTS
+A: 10
+T: 9
+G: 11
+C: 7
+
+Original GC content: 51.35%
+Mutated GC content: 48.65%
+
+Total mutations: 3
+Mutation rate: 8.1081%
+Transitions: 1
+Transversions: 2
+
+MUTATION DETAILS
+----------------
+Position 5: G -> A (Transition)
+Position 12: C -> G (Transversion)
+Position 36: C -> G (Transversion)

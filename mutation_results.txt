@@ -1,0 +1,13 @@
+VIRAL GENOME ANALYZER v4
+========================
+
+Sequence length: 24
+Total mutations: 3
+Mutation rate: 12.5000%
+
+Transitions: 2
+Transversions: 1
+
+Position 5: G -> A (Transition)
+Position 8: C -> G (Transversion)
+Position 22: A -> G (Transition)
